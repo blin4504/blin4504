@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blin4504
+- 👋 Hi, I’m Brian Lin@blin4504
 - 👀 I’m interested in programming and solving problems
 - 🌱 I’m currently learning C# and skills to solve Leetcode
 - 💞️ I’m looking to collaborate on any projects
