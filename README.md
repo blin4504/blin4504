@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian Lin@blin4504
-- 👀 I’m interested in programming and solving problems
-- 🌱 I’m currently learning AWS and skills to solve Leetcode
+- 👀 I’m interested in backend development, distributed systems, and low-level designs
+- 🌱 I’m currently learning Go and skills to solve Leetcode
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: blin4504 on github
 
