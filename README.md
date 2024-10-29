@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=blin4504&color=green)
+
 - 👋 Hi, I’m Brian Lin @ blin4504
 - 👀 I’m interested in backend development and distributed systems
 - 🌱 I’m currently learning Go and skills to solve Leetcode
